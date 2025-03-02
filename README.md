@@ -70,9 +70,6 @@
 ### Glade to see you here
 <img src="https://komarev.com/ghpvc/?username=xprofessional1130&label=Profile%20views&color=0e75b6&style=flat" alt="xprofessional1130" />
 
-## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xprofessional1130" alt="xprofessional1130" /></a> </p>  
-
 ## Github Stats
 
 <p align = "center">
@@ -80,6 +77,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dexexpert&langs_count=8&layout=compact&theme=light&include_all_commits=true&line_height=27">
   </a>
   
+## 🏆 GitHub Trophies
 <p align="center" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app/?username=dexexpert&column=7&theme=light"/>
 </p>
