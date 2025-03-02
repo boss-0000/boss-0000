@@ -23,6 +23,10 @@
 - 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
 - 📫 <b>Languages</b> : JavaScript, TypeScript, ReScript, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity, Rust
 
+## 🎓 Education & Certifications
+- Bachelor's degree in Computer Science
+- Certifications in Next.js, React, MySQL, Node.js and Web3
+
 ## Languages & Tools
 
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -63,9 +67,11 @@
 <code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2c.png"></code>
 <br><br>
 
-## Profile Views
+### Glade to see you here
+<img src="https://komarev.com/ghpvc/?username=xprofessional1130&label=Profile%20views&color=0e75b6&style=flat" alt="xprofessional1130" />
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xprofessional1130" alt="xprofessional1130" /></a> </p>  
 
 ## Github Stats
 
