@@ -89,5 +89,5 @@
   <a href="https://t.me/incredibleGAT" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
   &nbsp;&nbsp; -->
  
-</div># boss-0000
+</div># boss
 
