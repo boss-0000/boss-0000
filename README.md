@@ -17,7 +17,6 @@
 ## Core Skills
 
 - 🔭 <b>Frontend</b> : React.js, Next.js, Wordpress, Shopify, Vue.js, Angular.js, Nuxt.js
-- 🔥 <b>BlockChain</b> : Web3.js, Ether.js, Wagmi, Hardhat, Truffle, Ethereum, Solana, DeFi, Dex, NFT
 - 🌱 <b>Libraries</b> : TailwindCSS, Material UI, AntD, RSuite
 - 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express, Python / Django
 - 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
